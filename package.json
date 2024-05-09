@@ -18,7 +18,7 @@
     "@unocss/nuxt": "^0.57.0",
     "@unocss/reset": "^0.57.0",
     "@vueuse/nuxt": "^10.5.0",
-    "eslint": "^8.52.0",
+    "eslint": "^9.0.0",
     "nuxt": "^3.8.0",
     "nuxt-icon": "^0.6.0",
     "nuxt-og-image": "^2.1.3"
