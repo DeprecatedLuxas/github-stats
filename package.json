@@ -12,13 +12,13 @@
     "@vercel/analytics": "^1.1.1"
   },
   "devDependencies": {
-    "@luxass/eslint-config": "^3.3.2",
+    "@luxass/eslint-config": "^3.4.0",
     "@nuxt/devtools": "latest",
     "@types/node": "^18.17.1",
     "@unocss/nuxt": "^0.57.0",
     "@unocss/reset": "^0.57.0",
     "@vueuse/nuxt": "^10.5.0",
-    "eslint": "^8.52.0",
+    "eslint": "^8.57.0",
     "nuxt": "^3.8.0",
     "nuxt-icon": "^0.6.0",
     "nuxt-og-image": "^2.1.3"
