@@ -12,7 +12,7 @@
     "@vercel/analytics": "^1.1.1"
   },
   "devDependencies": {
-    "@luxass/eslint-config": "^3.3.2",
+    "@luxass/eslint-config": "^4.7.0",
     "@nuxt/devtools": "latest",
     "@types/node": "^18.17.1",
     "@unocss/nuxt": "^0.57.0",
